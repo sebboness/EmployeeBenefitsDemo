@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "%PAYLOCITY_DEMO_DB%" Microsoft.EntityFrameworkCore.SqlServer -o Entity -c AppDbContext --force
